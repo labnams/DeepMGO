@@ -46,7 +46,7 @@ MODEL_DIR = os.path.join(BASE_DIR, "Model")
 PADEL_COLUMNS_PATH = os.path.join(DATA_DIR, "descriptors", "padel_columns.csv")
 SCALER_PATH = os.path.join(BASE_DIR, "scaler", "minmax_scaler.pkl")
 FEATURE_SELECTOR_PATH = os.path.join(DATA_DIR, "descriptors", "feature_indices.csv")
-MODEL_NAME = "DeepMGO_fs90"
+MODEL_NAME = "DeepMGO"
 
 # Load PaDEL columns
 PADEL_COLUMNS = pd.read_csv(PADEL_COLUMNS_PATH).columns.tolist()[1:]  # Skip 'Name' column
