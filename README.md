@@ -1,4 +1,4 @@
-# DeepMGO Application Tool
+# DeepMGO Application Web Tool
 
 A web-based tool for predicting MGO affinity using deep learning.
 
@@ -37,11 +37,11 @@ DeepMGO/
 │   └── descriptors/
 │       ├── padel_columns.csv
 │       └── feature_indices.csv
-├── Model/
-│   ├── DeepMGO_fs90.json
-│   └── DeepMGO_fs90.h5
-└── scaler/
-    └── minmax_scaler_add_68.pkl
+│   └── preprocessing/
+│       └── minmax_scaler.pkl
+└── Model/
+    ├── DeepMGO_fs90.json
+    └── DeepMGO_fs90.h5 
 ```
 
 ## Usage
