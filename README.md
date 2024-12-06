@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 ```
 DeepMGO/
+├── DeepMGO_shiny.py
 ├── data/
 │   └── descriptors/
 │       ├── padel_columns.csv
