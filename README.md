@@ -14,7 +14,7 @@ A web-based tool for predicting MGO affinity using deep learning.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DeepMGO.git
+git clone https://github.com/labnams/DeepMGO.git
 cd DeepMGO
 ```
 
