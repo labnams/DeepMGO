@@ -61,7 +61,7 @@ The web interface will be available at `http://localhost:8000` by default.
 ## Citation
 
 If you use this tool in your research, please cite:
-[Add your citation information here]
+[DeepMGO reference information]
 
 ## License
 
