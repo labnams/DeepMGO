@@ -1,5 +1,4 @@
-# README.md
-# DeepMGO Web Tool
+# DeepMGO Application Tool
 
 A web-based tool for predicting MGO affinity using deep learning.
 
