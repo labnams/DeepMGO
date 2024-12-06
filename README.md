@@ -41,8 +41,8 @@ DeepMGO/
 │   └── preprocessing/
 │       └── minmax_scaler.pkl
 └── Model/
-    ├── DeepMGO_fs90.json
-    └── DeepMGO_fs90.h5 
+    ├── DeepMGO.json
+    └── DeepMGO.h5 
 ```
 
 ## Usage
