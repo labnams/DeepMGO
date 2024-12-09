@@ -18,13 +18,7 @@ git clone https://github.com/labnams/DeepMGO.git
 cd DeepMGO
 ```
 
-2. Create environment using conda:
-```bash
-conda env create -f environment.yml -n deepmgo
-conda activate deepmgo
-```
-
-Or install using pip:
+2. Install using pip:
 ```bash
 pip install -r requirements.txt
 ```
