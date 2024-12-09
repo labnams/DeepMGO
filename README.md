@@ -20,7 +20,7 @@ cd DeepMGO
 
 2. Create environment using conda:
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yml -n deepmgo
 conda activate deepmgo
 ```
 
