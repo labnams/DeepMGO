@@ -44,7 +44,7 @@ MODEL_DIR = os.path.join(BASE_DIR, "Model")
 
 # File paths
 PADEL_COLUMNS_PATH = os.path.join(DATA_DIR, "descriptors", "padel_columns.csv")
-SCALER_PATH = os.path.join(BASE_DIR, "scaler", "minmax_scaler.pkl")
+SCALER_PATH = os.path.join(DATA_DIR, "preprocessing", "minmax_scaler.pkl")
 FEATURE_SELECTOR_PATH = os.path.join(DATA_DIR, "descriptors", "feature_indices.csv")
 MODEL_NAME = "DeepMGO"
 
